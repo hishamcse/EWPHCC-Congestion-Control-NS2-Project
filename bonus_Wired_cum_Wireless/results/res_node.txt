@@ -1,0 +1,83 @@
+
+Varying number of nodes
+
+Number of nodes : 20
+
+-------------------------------------------------------------
+Sent Packets:  6660
+Dropped Packets:  567
+Received Packets:  6239
+Wired trace:  32448
+Wireless trace:  3272
+-------------------------------------------------------------
+Throughput:  2746.86 kbits/sec
+Average Delay:  2.40992 seconds
+Delivery ratio:  0.936787
+Drop ratio:  0.0851351
+-------------------------------------------------------------
+
+
+Number of nodes : 40
+
+-------------------------------------------------------------
+Sent Packets:  13092
+Dropped Packets:  516
+Received Packets:  12801
+Wired trace:  69864
+Wireless trace:  3235
+-------------------------------------------------------------
+Throughput:  5638.72 kbits/sec
+Average Delay:  1.32462 seconds
+Delivery ratio:  0.977773
+Drop ratio:  0.0394134
+-------------------------------------------------------------
+
+
+Number of nodes : 63
+
+-------------------------------------------------------------
+Sent Packets:  25362
+Dropped Packets:  463
+Received Packets:  25157
+Wired trace:  138848
+Wireless trace:  3131
+-------------------------------------------------------------
+Throughput:  11053.5 kbits/sec
+Average Delay:  0.720121 seconds
+Delivery ratio:  0.991917
+Drop ratio:  0.0182557
+-------------------------------------------------------------
+
+
+Number of nodes : 80
+
+-------------------------------------------------------------
+Sent Packets:  22401
+Dropped Packets:  440
+Received Packets:  21782
+Wired trace:  118408
+Wireless trace:  3066
+-------------------------------------------------------------
+Throughput:  9584.92 kbits/sec
+Average Delay:  0.654212 seconds
+Delivery ratio:  0.972367
+Drop ratio:  0.019642
+-------------------------------------------------------------
+
+
+Number of nodes : 102
+
+-------------------------------------------------------------
+Sent Packets:  23456
+Dropped Packets:  348
+Received Packets:  23513
+Wired trace:  125032
+Wireless trace:  3039
+-------------------------------------------------------------
+Throughput:  10318.2 kbits/sec
+Average Delay:  0.892485 seconds
+Delivery ratio:  1.00243
+Drop ratio:  0.0148363
+-------------------------------------------------------------
+
+
