@@ -1,0 +1,93 @@
+
+Varying number of flows
+
+Number of flows : 10
+
+-------------------------------------------------------------
+Sent Packets:  745
+Dropped Packets:  1
+Received Packets:  744
+Total Energy Consumption:  8189.94 Joules
+Simulation Time:  19.9989 seconds
+-------------------------------------------------------------
+Throughput:  292.769 kbits/sec
+Average Delay:  0.0135053 seconds
+Delivery ratio:  0.998658
+Drop ratio:  0.00134228
+Energy consumption per packet:  11.008 Joules
+Energy consumption per byte:  0.0111903 Joules
+-------------------------------------------------------------
+
+
+Number of flows : 20
+
+-------------------------------------------------------------
+Sent Packets:  789
+Dropped Packets:  6
+Received Packets:  783
+Total Energy Consumption:  8535.84 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  298.264 kbits/sec
+Average Delay:  0.0349896 seconds
+Delivery ratio:  0.992395
+Drop ratio:  0.00760456
+Energy consumption per packet:  10.9015 Joules
+Energy consumption per byte:  0.0114474 Joules
+-------------------------------------------------------------
+
+
+Number of flows : 30
+
+-------------------------------------------------------------
+Sent Packets:  833
+Dropped Packets:  23
+Received Packets:  809
+Total Energy Consumption:  8965.69 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  297.272 kbits/sec
+Average Delay:  0.351319 seconds
+Delivery ratio:  0.971188
+Drop ratio:  0.027611
+Energy consumption per packet:  11.0824 Joules
+Energy consumption per byte:  0.012064 Joules
+-------------------------------------------------------------
+
+
+Number of flows : 40
+
+-------------------------------------------------------------
+Sent Packets:  835
+Dropped Packets:  26
+Received Packets:  806
+Total Energy Consumption:  9017.15 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  286.448 kbits/sec
+Average Delay:  0.203062 seconds
+Delivery ratio:  0.965269
+Drop ratio:  0.0311377
+Energy consumption per packet:  11.1875 Joules
+Energy consumption per byte:  0.0125917 Joules
+-------------------------------------------------------------
+
+
+Number of flows : 50
+
+-------------------------------------------------------------
+Sent Packets:  880
+Dropped Packets:  8
+Received Packets:  872
+Total Energy Consumption:  9179.13 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  299.776 kbits/sec
+Average Delay:  0.0600187 seconds
+Delivery ratio:  0.990909
+Drop ratio:  0.00909091
+Energy consumption per packet:  10.5265 Joules
+Energy consumption per byte:  0.012248 Joules
+-------------------------------------------------------------
+
+

@@ -1,0 +1,93 @@
+
+Varying packet rate
+
+Packet rate : 100
+
+-------------------------------------------------------------
+Sent Packets:  298
+Dropped Packets:  6
+Received Packets:  292
+Total Energy Consumption:  2888.7 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  97.936 kbits/sec
+Average Delay:  0.0476896 seconds
+Delivery ratio:  0.979866
+Drop ratio:  0.0201342
+Energy consumption per packet:  9.8928 Joules
+Energy consumption per byte:  0.0117983 Joules
+-------------------------------------------------------------
+
+
+Packet rate : 200
+
+-------------------------------------------------------------
+Sent Packets:  547
+Dropped Packets:  6
+Received Packets:  540
+Total Energy Consumption:  5653.21 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  199.12 kbits/sec
+Average Delay:  0.0385517 seconds
+Delivery ratio:  0.987203
+Drop ratio:  0.0109689
+Energy consumption per packet:  10.4689 Joules
+Energy consumption per byte:  0.0113564 Joules
+-------------------------------------------------------------
+
+
+Packet rate : 300
+
+-------------------------------------------------------------
+Sent Packets:  789
+Dropped Packets:  6
+Received Packets:  783
+Total Energy Consumption:  8535.84 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  298.264 kbits/sec
+Average Delay:  0.0349896 seconds
+Delivery ratio:  0.992395
+Drop ratio:  0.00760456
+Energy consumption per packet:  10.9015 Joules
+Energy consumption per byte:  0.0114474 Joules
+-------------------------------------------------------------
+
+
+Packet rate : 400
+
+-------------------------------------------------------------
+Sent Packets:  1038
+Dropped Packets:  6
+Received Packets:  1031
+Total Energy Consumption:  11664.1 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  399.448 kbits/sec
+Average Delay:  0.0377146 seconds
+Delivery ratio:  0.993256
+Drop ratio:  0.00578035
+Energy consumption per packet:  11.3134 Joules
+Energy consumption per byte:  0.0116802 Joules
+-------------------------------------------------------------
+
+
+Packet rate : 500
+
+-------------------------------------------------------------
+Sent Packets:  1288
+Dropped Packets:  6
+Received Packets:  1281
+Total Energy Consumption:  15228.1 Joules
+Simulation Time:  20 seconds
+-------------------------------------------------------------
+Throughput:  501.448 kbits/sec
+Average Delay:  0.0748965 seconds
+Delivery ratio:  0.994565
+Drop ratio:  0.00465839
+Energy consumption per packet:  11.8877 Joules
+Energy consumption per byte:  0.0121473 Joules
+-------------------------------------------------------------
+
+
