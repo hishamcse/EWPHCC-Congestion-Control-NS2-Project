@@ -1,0 +1,73 @@
+
+Varying packet rate
+
+Packet rate : 100
+
+-------------------------------------------------------------
+Sent Packets:  3944
+Dropped Packets:  0
+Received Packets:  3944
+-------------------------------------------------------------
+Throughput:  1668.49 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
+Packet rate : 200
+
+-------------------------------------------------------------
+Sent Packets:  7747
+Dropped Packets:  158
+Received Packets:  7695
+-------------------------------------------------------------
+Throughput:  3175.2 kbits/sec
+Average Delay:  0.009917 seconds
+Delivery ratio:  0.993288
+Drop ratio:  0.020395
+-------------------------------------------------------------
+
+
+Packet rate : 301
+
+-------------------------------------------------------------
+Sent Packets:  10506
+Dropped Packets:  459
+Received Packets:  10387
+-------------------------------------------------------------
+Throughput:  4286 kbits/sec
+Average Delay:  0.00962999 seconds
+Delivery ratio:  0.988673
+Drop ratio:  0.0436893
+-------------------------------------------------------------
+
+
+Packet rate : 400
+
+-------------------------------------------------------------
+Sent Packets:  14477
+Dropped Packets:  437
+Received Packets:  14417
+-------------------------------------------------------------
+Throughput:  5948.91 kbits/sec
+Average Delay:  0.00776593 seconds
+Delivery ratio:  0.995855
+Drop ratio:  0.0301858
+-------------------------------------------------------------
+
+
+Packet rate : 500
+
+-------------------------------------------------------------
+Sent Packets:  16123
+Dropped Packets:  460
+Received Packets:  16039
+-------------------------------------------------------------
+Throughput:  6618.2 kbits/sec
+Average Delay:  0.00641086 seconds
+Delivery ratio:  0.99479
+Drop ratio:  0.0285307
+-------------------------------------------------------------
+
+

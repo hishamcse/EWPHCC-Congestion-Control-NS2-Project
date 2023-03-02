@@ -1,0 +1,73 @@
+
+Varying number of flows
+
+Number of flows : 10
+
+-------------------------------------------------------------
+Sent Packets:  3241
+Dropped Packets:  0
+Received Packets:  3241
+-------------------------------------------------------------
+Throughput:  1372.87 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
+Number of flows : 20
+
+-------------------------------------------------------------
+Sent Packets:  5093
+Dropped Packets:  0
+Received Packets:  5093
+-------------------------------------------------------------
+Throughput:  2157.36 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
+Number of flows : 30
+
+-------------------------------------------------------------
+Sent Packets:  6019
+Dropped Packets:  0
+Received Packets:  6019
+-------------------------------------------------------------
+Throughput:  2547.41 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
+Number of flows : 40
+
+-------------------------------------------------------------
+Sent Packets:  7747
+Dropped Packets:  158
+Received Packets:  7695
+-------------------------------------------------------------
+Throughput:  3175.2 kbits/sec
+Average Delay:  0.009917 seconds
+Delivery ratio:  0.993288
+Drop ratio:  0.020395
+-------------------------------------------------------------
+
+
+Number of flows : 50
+
+-------------------------------------------------------------
+Sent Packets:  8086
+Dropped Packets:  316
+Received Packets:  7982
+-------------------------------------------------------------
+Throughput:  3293.63 kbits/sec
+Average Delay:  0.0100997 seconds
+Delivery ratio:  0.987138
+Drop ratio:  0.0390799
+-------------------------------------------------------------
+
+

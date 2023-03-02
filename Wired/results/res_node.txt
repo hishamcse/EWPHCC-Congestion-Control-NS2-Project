@@ -1,0 +1,73 @@
+
+Varying number of nodes
+
+Number of nodes : 20
+
+-------------------------------------------------------------
+Sent Packets:  4341
+Dropped Packets:  860
+Received Packets:  4236
+-------------------------------------------------------------
+Throughput:  1747.91 kbits/sec
+Average Delay:  0.00984332 seconds
+Delivery ratio:  0.975812
+Drop ratio:  0.198111
+-------------------------------------------------------------
+
+
+Number of nodes : 40
+
+-------------------------------------------------------------
+Sent Packets:  7747
+Dropped Packets:  158
+Received Packets:  7695
+-------------------------------------------------------------
+Throughput:  3175.2 kbits/sec
+Average Delay:  0.009917 seconds
+Delivery ratio:  0.993288
+Drop ratio:  0.020395
+-------------------------------------------------------------
+
+
+Number of nodes : 60
+
+-------------------------------------------------------------
+Sent Packets:  9723
+Dropped Packets:  0
+Received Packets:  9723
+-------------------------------------------------------------
+Throughput:  4116.82 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
+Number of nodes : 80
+
+-------------------------------------------------------------
+Sent Packets:  11112
+Dropped Packets:  0
+Received Packets:  11112
+-------------------------------------------------------------
+Throughput:  4704.93 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
+Number of nodes : 100
+
+-------------------------------------------------------------
+Sent Packets:  12038
+Dropped Packets:  0
+Received Packets:  12038
+-------------------------------------------------------------
+Throughput:  5094.81 kbits/sec
+Average Delay:  0.01 seconds
+Delivery ratio:  1
+Drop ratio:  0
+-------------------------------------------------------------
+
+
