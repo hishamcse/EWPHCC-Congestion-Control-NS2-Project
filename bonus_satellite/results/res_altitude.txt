@@ -1,0 +1,73 @@
+
+Varying altitudes
+
+Altitude : 780
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  222
+Received Packets:  676
+-------------------------------------------------------------
+Throughput:  0.590033 kbits/sec
+Average Delay:  0.246942 seconds
+Delivery ratio:  0.752784
+Drop ratio:  0.247216
+-------------------------------------------------------------
+
+
+Altitude : 840
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  216
+Received Packets:  682
+-------------------------------------------------------------
+Throughput:  0.59527 kbits/sec
+Average Delay:  0.245138 seconds
+Delivery ratio:  0.759465
+Drop ratio:  0.240535
+-------------------------------------------------------------
+
+
+Altitude : 900
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  208
+Received Packets:  690
+-------------------------------------------------------------
+Throughput:  0.602252 kbits/sec
+Average Delay:  0.242802 seconds
+Delivery ratio:  0.768374
+Drop ratio:  0.231626
+-------------------------------------------------------------
+
+
+Altitude : 960
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  200
+Received Packets:  698
+-------------------------------------------------------------
+Throughput:  0.609235 kbits/sec
+Average Delay:  0.240507 seconds
+Delivery ratio:  0.777283
+Drop ratio:  0.222717
+-------------------------------------------------------------
+
+
+Altitude : 1020
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  196
+Received Packets:  702
+-------------------------------------------------------------
+Throughput:  0.612726 kbits/sec
+Average Delay:  0.239412 seconds
+Delivery ratio:  0.781737
+Drop ratio:  0.218263
+-------------------------------------------------------------
+
+

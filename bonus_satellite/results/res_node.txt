@@ -1,0 +1,73 @@
+
+Varying number of nodes
+
+Number of nodes : 20
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  228
+Received Packets:  670
+-------------------------------------------------------------
+Throughput:  0.584796 kbits/sec
+Average Delay:  0.24867 seconds
+Delivery ratio:  0.746102
+Drop ratio:  0.253898
+-------------------------------------------------------------
+
+
+Number of nodes : 40
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  222
+Received Packets:  676
+-------------------------------------------------------------
+Throughput:  0.590033 kbits/sec
+Average Delay:  0.246942 seconds
+Delivery ratio:  0.752784
+Drop ratio:  0.247216
+-------------------------------------------------------------
+
+
+Number of nodes : 60
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  222
+Received Packets:  676
+-------------------------------------------------------------
+Throughput:  0.590033 kbits/sec
+Average Delay:  0.247033 seconds
+Delivery ratio:  0.752784
+Drop ratio:  0.247216
+-------------------------------------------------------------
+
+
+Number of nodes : 80
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  222
+Received Packets:  676
+-------------------------------------------------------------
+Throughput:  0.590033 kbits/sec
+Average Delay:  0.247069 seconds
+Delivery ratio:  0.752784
+Drop ratio:  0.247216
+-------------------------------------------------------------
+
+
+Number of nodes : 100
+
+-------------------------------------------------------------
+Sent Packets:  898
+Dropped Packets:  222
+Received Packets:  676
+-------------------------------------------------------------
+Throughput:  0.590033 kbits/sec
+Average Delay:  0.247148 seconds
+Delivery ratio:  0.752784
+Drop ratio:  0.247216
+-------------------------------------------------------------
+
+
